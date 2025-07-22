@@ -70,7 +70,6 @@ python-jose==3.5.0
 python-json-logger==3.3.0
 python-multipart==0.0.20
 pytz==2025.2
-pywin32==309; platform_system=="Windows"
 PyYAML==6.0.2
 redis==4.6.0
 rich==14.0.0
